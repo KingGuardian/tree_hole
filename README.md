@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Project Gaia
 
-You can use the [editor on GitHub](https://github.com/KingGuardian/tree_hole/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Documents
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[    Documents   ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
 
-### Markdown
+## Change Log
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **May 30th, 2017**
+Added a reading progressbar for post page.
 
-```markdown
-Syntax highlighted code block
+- **May 6th, 2017**
+Updated font page
+Added global font style
 
-# Header 1
-## Header 2
-### Header 3
+- **April 3nd, 2017**
+Added new font
 
-- Bulleted
-- List
+- **Mar 5th, 2017**
+Style updated
 
-1. Numbered
-2. List
+- **Mar 1st, 2017**
+TOC plugin updated
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KingGuardian/tree_hole/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Feb 28th, 2017**
+Rebuild to include **Bootstrap 4-Alpha** and **JQuery 3**
